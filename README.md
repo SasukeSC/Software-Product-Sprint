@@ -1,6 +1,6 @@
-# Google Software Product Sprint
+# Google Software Product Sprint Benny Vazquez
 
-This repo contains the projects you'll work on throughout SPS.
+This repo contains Benny's portfolio and SPS Projects.
 
 To get started:
 
