@@ -35,28 +35,28 @@
 
 .pics {
   background-color: #383E3E;
-  height: 494px;
+  height: 45%;
   width: 100%;
 }
 
 .pictext {
   color: white;
   position: relative;
-  left: 525px;
+  left: 27.3%;
 }
 
 .pictext2 {
   color: white;
   position: relative;
-  left: 1113px;
+  left: 60%;
 }
 
 .pics1 {
   position: relative;
-  left: 125px;
+  left: 6.5%;
 }
 
 .pics2 {
   position: relative;
-  left: 250px;
+  left: 13%;
 }
