@@ -1,0 +1,57 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*This if for navbar coloring and height*/
+.navbar-custom {
+    background-color: #2F3136;
+    height: 20%;
+}
+
+/*This if for the size of my food logo*/
+.foodtastraphe {
+    width: 100%;
+    padding-right: 0px;
+    height: auto;
+}
+
+/*This if for the size of my logo*/
+.MyLogo {
+    padding-left: 20%;
+    width: 93px;
+    height: 93px;
+}
+
+/*This if for having the colors of the search box*/
+.search {
+    padding-right: 150px;
+    text-align: center;
+    position: relative;
+}
+
+/*This if for having the colors of the search box*/
+.box {
+    width: 100%;
+    border-color: #202225;
+    background-color: #202225;
+    color: #686769;
+
+}
+
+/*This if for having the focus of search bar not change color*/
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+/*This if for having the focus of search bar not change color*/
+#search:focus {
+    outline: none;
+    background-color: #202225;
+    color: #686769;
+    box-shadow: #202225;
+}

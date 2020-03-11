@@ -7,3 +7,56 @@
 #greeting-container {
   margin-top: 20px;
 }
+
+#navbar {
+  background-color: #4E4E4E;
+}
+
+.nav-link {
+  color: white;
+  text-size-adjust: 31px;
+}
+
+.nav-link:hover {
+  color: white;
+  background-color: #777B7B;
+}
+
+.navbar-brand:hover {
+  color: white;
+  background-color: #777B7B;
+}
+
+.bio {
+  color: white;
+  top: 50%;
+  left: 50%;
+}
+
+.pics {
+  background-color: #383E3E;
+  height: 45%;
+  width: 100%;
+}
+
+.pictext {
+  color: white;
+  position: relative;
+  left: 27.3%;
+}
+
+.pictext2 {
+  color: white;
+  position: relative;
+  left: 60%;
+}
+
+.pics1 {
+  position: relative;
+  left: 6.5%;
+}
+
+.pics2 {
+  position: relative;
+  left: 13%;
+}

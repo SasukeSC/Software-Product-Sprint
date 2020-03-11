@@ -14,7 +14,7 @@
 
 package com.google.sps.servlets;
 
-import java.io.IOException;
+import java.io.IOException; //Ask about this later
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -27,7 +27,7 @@ public class PageViewServlet extends HttpServlet {
   private int pageViews = 0;
 
   @Override
-  public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
+  public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException { // I stopped here
     pageViews++;
 
     response.setContentType("text/html;");
