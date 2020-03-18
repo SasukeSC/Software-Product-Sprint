@@ -51,12 +51,16 @@
   left: 60%;
 }
 
-.pics1 {
+.petpics {
   position: relative;
   left: 6.5%;
+  width: 231px;
+  height: 308px;
 }
 
-.pics2 {
+.japanpics {
   position: relative;
   left: 13%;
+  width: 231px;
+  height: 308px;
 }
